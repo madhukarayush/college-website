@@ -1,0 +1,145 @@
+body{
+    margin:0;
+    box-sizing: border-box;
+    padding: 0;
+    text-decoration: none;
+    background-image: url('https://www.fg-a.com/wallpapers/2018-white-circles-on-black-background-image.jpg');
+}
+.background p:hover{
+ cursor: pointer;   
+}
+
+.heading a img{
+    width:40%;
+    height: 10vh;
+}
+.heading span{
+    font-weight: bold;
+    font-size:2rem;
+    color: rgb(18, 113, 129);
+    font-family: 'Baloo Bhai 2', cursive;
+
+}
+.navbar{
+    opacity: 0.7;
+    height: 10vh;
+}
+#navbarNav li a {
+    padding-left: 50px;
+    font-size:1rem;
+    
+
+}
+#navbarNav li a:hover{
+    color: brown;
+
+}
+#navbarNav li icon{
+    font-size:2rem;
+    border: 2px solid red;
+}
+.navbar-brand img{
+ padding-left: 100px;
+}
+
+.cs{
+    background-color: white;
+    margin: 25vh;
+    margin-bottom: 0vh;
+    border-radius:15px;
+}
+.it{
+    background-color: white;
+    margin: 25vh;
+    margin-bottom: 0vh;
+    border-radius:15px;
+
+}
+.ece{
+    background-color: white;
+    margin: 25vh;
+    margin-bottom: 0vh;
+    border-radius:15px;
+
+}
+.mechanical{
+    background-color: white;
+    margin: 25vh;
+    margin-bottom: 0vh;
+    border-radius:15px;
+
+}
+
+.cs1{
+    display: flex;
+    flex-direction: row;
+}
+.cs1 img{
+    height: 25vh;
+    width:40vh;
+}
+.cs1 a{
+    text-decoration: none;
+}
+.cs1 p{
+    font-size: 150%;
+    padding-left:5vh;
+}
+.it1 img{
+    height: 25vh;
+    width:40vh;
+}
+.it1{
+    display: flex;
+    flex-direction: row;
+}
+.it1 a{
+    text-decoration: none;
+}
+.it1 p{
+    font-size: 150%;
+    padding-left:5vh;
+}
+.mechanical1{
+    display: flex;
+    flex-direction: row;
+}  
+.mechanical1 img{
+    height: 25vh;
+    width:40vh;
+}
+.mechanical1 a{
+    text-decoration: none;
+}
+.mechanical1 p{
+    font-size: 150%;
+    padding-left:5vh;
+}
+.ece1{
+    display: flex;
+    flex-direction: row;
+}  
+.ece1 img{
+    height: 25vh;
+    width:40vh;
+}
+.ece1 a{
+    text-decoration: none;
+}
+.ece1 p{
+    font-size: 150%;
+    padding-left:5vh;
+}
+.cs:hover{
+    box-shadow:7px 7px 1px -3px rgb(208, 169, 162);
+
+ }
+.it:hover{
+   box-shadow:7px 7px 1px -3px rgb(208, 169, 162);
+}
+.mechanical:hover{
+    box-shadow:7px 7px 1px -3px rgb(208, 169, 162);
+ }
+ .ece:hover{
+    box-shadow:7px 7px 1px -3px rgb(208, 169, 162);
+ }

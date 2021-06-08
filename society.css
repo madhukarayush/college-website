@@ -1,0 +1,73 @@
+
+
+body{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0;
+    background-color: rgb(171, 190, 209);
+}
+.heading a img{
+    width:40%;
+    height: 10vh;
+}
+.heading span{
+    font-weight: bold;
+    font-size:2rem;
+    color: rgb(18, 113, 129);
+    font-family: 'Baloo Bhai 2', cursive;
+
+}
+.navbar{
+    opacity: 0.7;
+    height: 10vh;
+}
+#navbarNav li a {
+    padding-left: 50px;
+    font-size:1rem;
+    
+
+}
+#navbarNav li a:hover{
+    color: brown;
+
+}
+#navbarNav li icon{
+    font-size:2rem;
+    border: 2px solid red;
+}
+.navbar-brand img{
+ padding-left: 100px;
+}
+
+
+.row img{
+    height: 40vh;
+    width: 60%;
+    margin-bottom: 20px;
+  background-color: white;
+    
+}
+body{
+    background-image: url('https://img.freepik.com/free-vector/watercolor-background_87374-69.jpg?size=626&ext=jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.About{
+    margin-top: 40px;
+    background-color: rgb(49, 49, 49);
+    color:rgb(185, 183, 183);
+    font-weight: 100;
+    
+}
+.About ul li{
+    margin: 25px 15px;
+}
+h2{
+    font-family: 'Yeon Sung', cursive;
+    text-decoration: underline;
+    font-size: 3.2rem;
+    color: rgba(151, 24, 224, 0.74);
+    margin-top: 5%;
+}
+
+

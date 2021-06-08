@@ -1,0 +1,131 @@
+
+body{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0;
+    background-color: bisque;
+}
+.heading a img{
+    width:40%;
+    height: 10vh;
+}
+.heading span{
+    font-weight: bold;
+    font-size:2rem;
+    color: rgb(18, 113, 129);
+    font-family: 'Baloo Bhai 2', cursive;
+
+}
+.navbar{
+    opacity: 0.7;
+    height: 10vh;
+}
+#navbarNav li a {
+    padding-left: 50px;
+    font-size:1rem;
+    
+
+}
+#navbarNav li a:hover{
+    color: brown;
+
+}
+#navbarNav li icon{
+    font-size:2rem;
+    border: 2px solid red;
+}
+.navbar-brand img{
+ padding-left: 100px;
+}
+.slide img{
+    height: 90vh;
+}
+.content row{
+    height: 75vh;
+}
+#one{
+    background-color: grey;
+}
+#two h3{ padding-top: 35px;
+    padding-left: 30px;
+    padding-bottom:20px ;
+    
+}
+#two .info{
+    padding-left:50px ;
+}
+#two .info p{
+    padding-left:30px ;
+} 
+#two .info1{
+    margin-bottom:30px ;
+}
+
+#two  p{
+    margin-top: 23px;
+}
+#three{
+    padding-right: 0;
+}
+#three .one{background-color: crimson;
+ margin-right: 0;  
+ height: 50vh; 
+}
+#three .two{
+    height: 25vh;
+    background-color:yellow;
+}
+#three h5{padding-top: 15px;
+    padding-bottom:15px ;
+    color: white;
+}
+#three form{
+    margin-top: 50px;
+    padding:0 auto;
+}
+#three .button{
+    margin-top: 20px;
+    margin-left:35%;
+  padding:12px 30px;
+  color: white;
+  background-color: rgba(78, 211, 235, 0.945);
+
+}
+#three form .input{
+    width:70%;
+    margin: 15px auto;
+}
+#four{
+    background-color: grey;
+}
+.updates .button{
+    width: 240px;
+    border-radius: 8px;
+    margin-left: 45%;
+    font-size: small;
+    height: 40px;
+    margin-top: 50px;
+    background-color:aqua;
+}
+.updates{
+   background-image: url('https://assets.justinmind.com/wp-content/uploads/2020/02/website-background-design-guide.png');
+   background-repeat: no-repeat;
+ background-size:cover;
+}
+.updates h3{
+    margin-left: 135px;
+}
+.updates h3:last-of-type{
+    margin-left: 110px;
+
+}
+.About{
+    margin-top: 40px;
+    background-color: rgb(49, 49, 49);
+    color:rgb(185, 183, 183);
+    font-weight: 100;
+    
+}
+.About ul li{
+    margin: 25px 15px;
+}

@@ -1,0 +1,77 @@
+body{
+    margin: 0%;
+    box-sizing: border-box;
+    padding: 0;
+    background-image: url('https://thumbs.dreamstime.com/z/mathematic-exam-paper-5359629.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+.heading a img{
+    width:40%;
+    height: 10vh;
+}
+.heading span{
+    font-weight: bold;
+    font-size:2rem;
+    color: rgb(18, 113, 129);
+    font-family: 'Baloo Bhai 2', cursive;
+
+}
+.navbar{
+    opacity: 0.7;
+    height: 10vh;
+}
+#navbarNav li a {
+    padding-left: 50px;
+    font-size:1rem;
+
+}
+#navbarNav li a:hover{
+    color: brown;
+
+}
+#navbarNav li icon{
+    font-size:2rem;
+    border: 2px solid red;
+}
+.navbar-brand img{
+ padding-left: 100px;
+}
+
+
+.years{
+    display: flex;
+    justify-content:space-around;
+    flex-direction: row;
+    padding-top: 15vh;
+}
+.exams{
+    height: 45vh;
+    width: 25%;
+    background-color: whitesmoke;
+    margin-left: 5vh;
+    border-radius: 2vh;
+    box-shadow: 5px 5px thistle;
+    display: flex;
+    justify-content: center;
+
+}
+
+.years :hover{
+    background-color:rgb(231, 211, 165);
+    opacity: 0.8;
+    zoom: 1.06;
+}
+.exams a h3:hover{
+    color: red;
+    text-decoration: underline;
+    zoom: 1.2;
+}
+footer{
+     display: flex;
+    flex-direction: row;
+    background-color: rgb(236, 216, 216);
+    height: 5vh;
+    margin-top: 65vh;
+}

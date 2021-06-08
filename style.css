@@ -1,0 +1,147 @@
+body{
+    background: linear-gradient(0.25turn, #edf285, #ebf8e1, #ffce89);
+    box-sizing: border-box;
+    margin: 10%;
+    padding: 0;
+    background-color: bisque;
+    background-image: url('https://i.pinimg.com/originals/4f/6d/05/4f6d052bb1b26150115888ea06d4c106.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.heading a img{
+    width:40%;
+    height: 10vh;
+}
+.heading span{
+    font-weight: bold;
+    font-size:2rem;
+    color: rgb(18, 113, 129);
+    font-family: 'Baloo Bhai 2', cursive;
+
+}
+
+.society
+{
+  margin-left: 1rem;
+}
+.navbar{
+    opacity: 0.7;
+    height: 10vh;
+}
+#navbarNav li a {
+    padding-left: 50px;
+    font-size:1rem;
+
+}
+#navbarNav li a:hover{
+    color: brown;
+
+}
+#navbarNav li icon{
+    font-size:2rem;
+    border: 2px solid red;
+}
+.navbar-brand img{
+ padding-left: 100px;
+}
+.h11{
+  font-family: 'Castoro', serif;
+    padding-top:15vh;
+
+    margin: 0%;
+    text-align: center;
+
+}
+body{
+    background-color: turquoise;
+}
+h2{
+    text-align: center;
+    /* background-color: wheat; */
+    font-family: 'Castoro', serif;
+    margin: 10px;
+    /* margin-bottom: 100px; */
+
+}
+
+.alumni h3
+{
+  margin-top:20px;
+}
+
+a{
+    font-size:120%;
+}
+p{
+
+    /* font-size: large; */
+    padding-top: 10px;
+    padding: 10px;
+    font-size: 30px;
+    font-family: 'Cedarville Cursive', cursive;
+/* font-family: 'East Sea Dokdo', cursive; */
+}
+h3{
+    font-size: 30px;
+    color:#839b97;
+    font-family: 'Castoro', serif;
+    /* margin: 1rem; */
+    margin-left: 1rem;
+}
+body{
+    margin:0
+}
+.h1{
+    text-align: left;
+    padding-bottom: 0vh;
+    font-family: 'Castoro', serif;
+    margin-left:1rem;
+}
+.section{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 5vh;
+    margin-top:75px;
+}
+.section .card img{
+    height: 150px;
+}
+.section .card .btn:hover{
+  background-color: white;
+  color: #007bff;
+}
+
+.section .card:hover{
+    box-shadow:6px 6px 1px rgb(199, 241, 241);
+}
+
+footer{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(236, 216, 216);
+    height: 10vh;
+}
+.alumni .container{
+    width: 50%;
+}
+.alumni img{
+    height: 35vh;
+
+}
+.card{
+  border: solid;
+}
+#carouselExampleIndicators
+{
+  border: 4mm ridge rgba(170, 50, 220, .6);
+  margin-top:45px;
+  /* width: 100vh;
+  height: 55vh; */
+}
+
+.societyname{
+    display: flex;
+    flex-direction: row;
+    margin-left: 5vh;
+}

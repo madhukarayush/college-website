@@ -1,0 +1,124 @@
+
+body{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0;
+    background-color: bisque;
+}
+.heading a img{
+    width:40%;
+    height: 10vh;
+}
+.heading span{
+    font-weight: bold;
+    font-size:2rem;
+    color: rgb(18, 113, 129);
+    font-family: 'Baloo Bhai 2', cursive;
+
+}
+.navbar{
+    opacity: 0.7;
+    height: 10vh;
+}
+#navbarNav li a {
+    padding-left: 50px;
+    font-size:1rem;
+    
+
+}
+#navbarNav li a:hover{
+    color: brown;
+
+}
+#navbarNav li icon{
+    font-size:2rem;
+    border: 2px solid red;
+}
+.navbar-brand img{
+ padding-left: 100px;
+}
+.fluid-container{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ1ETHhKDlUm5UsYwC8uB9AUylf13ZUGBRa9A&usqp=CAU");
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 40vh;
+    width: 100%;
+    margin-top: 4.8%;
+}
+.fluid-container h3{
+    color: azure;
+    word-spacing: 3px;
+    font-family: 'Lora', serif;
+    
+}
+.details .container .icon1{
+    margin-left: 10px;
+    border-radius: 45%;
+    background-color:rgb(66,103,178);
+    color: white;
+    font-size: 1.3rem;
+    padding: 8px 8px;
+}
+.details .container .icon2{
+    margin-left: 10px;
+    border-radius: 45%;
+    background-color:#1da1f2;
+    color: white;
+    font-size: 1.3rem;
+    padding: 8px 8px;
+}
+.details .container .icon3{
+    margin-left: 10px;
+    border-radius: 45%;
+    background-color: #db4a39;
+    color: white;
+    font-size: 1.3rem;
+    padding: 8px 8px;
+}
+.details .container .icon4{
+    margin-left: 10px;
+    border-radius: 45%;
+    background-color:#2867B2;
+    color: white;
+    font-size: 1.3rem;
+    padding: 8px 8px;
+}
+.details .container .icon{
+    color: rgb(248, 87, 248);
+    margin-right: 10px;
+    font-size: 1.2rem;
+}
+.details .container h6{
+    font-weight: bold;
+}
+.details .container .web {
+ color: cadetblue;
+}
+.details .container .web:hover{
+    color: brown;
+    cursor: pointer;
+}
+form input:hover{
+ cursor: pointer;
+ border: 2px solid rgb(166, 243, 243);
+}
+#exampleFormControlTextarea1:hover{
+    cursor: pointer;
+ border: 2px solid rgb(166, 243, 243);
+}
+.About{
+    margin-top: 40px;
+    background-color: rgb(49, 49, 49);
+    color:rgb(185, 183, 183);
+    font-weight: 100;
+    
+}
+.About ul li{
+    margin: 25px 15px;
+    color: white;
+
+}
+.About ul li a{
+    color:rgb(185, 183, 183);
+ 
+}
